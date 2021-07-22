@@ -17,7 +17,6 @@ Improve continuous integration (CI) for operators created, installed, and manage
 
 * Lance Galletti (**[@gallettilance](https://github.com/gallettilance)**), Red Hat
 * Nick Hale (**[@njhale](https://github.com/njhale)**), Red Hat
-* Shawn Hurley (**[@shawn-hurley](https://github.com/shawn-hurley)**), Red Hat
 
 ## Contact
 - Slack: [#kubernetes-operators](https://kubernetes.slack.com/messages/kubernetes-operators)

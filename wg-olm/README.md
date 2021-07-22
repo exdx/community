@@ -13,7 +13,7 @@ To organize and steer the development of projects that enable teams to manage th
   - The [Operator Registry project](https://github.com/operator-framework/operator-registry)
 
 ## Meetings
-* Issue Triage Meeting: [Thursdays at 10:00 ET (Eastern Time)](https://docs.google.com/document/d/1LMQ5QlEYgGBeSc75fhHh-VFJ8_B2j4ieBcagIa-QfwU/edit) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28Eastern%20Time%29).
+* Feature Planning Meeting: [Thursdays at 10:00 ET (Eastern Time)](https://docs.google.com/document/d/1LMQ5QlEYgGBeSc75fhHh-VFJ8_B2j4ieBcagIa-QfwU/edit) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28Eastern%20Time%29).
   * [Meeting recordings](https://www.youtube.com/playlist?list=PLEcO8aSeUjeXoywfA_VQdxkqP00-VBzEA).
 * Regular WG Meeting: [Thursdays at 15:00 ET (Eastern Time)](https://docs.google.com/document/d/1Zuv-BoNFSwj10_zXPfaS9LWUQUCak2c8l48d0-AhpBw/edit) (biweekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=15:00&tz=ET%20%28Eastern%20Time%29).
   * [Meeting recordings](https://www.youtube.com/playlist?list=PLEcO8aSeUjeXDvBtPlaAvPTaknPR0Uwi-).
@@ -21,13 +21,13 @@ To organize and steer the development of projects that enable teams to manage th
 ## Organizers
 
 * Alexander Greene (**[@awgreene](https://github.com/awgreene)**), Red Hat
-* Kevin Rizza (**[@kevinrizza](https://github.com/kevinrizza)**), Red Hat
 * Daniel Sover (**[@exdx](https://github.com/exdx)**), Red Hat
+* Kevin Rizza (**[@kevinrizza](https://github.com/kevinrizza)**), Red Hat
 
 ## Contact
 - Slack: [#olm-dev](https://kubernetes.slack.com/messages/olm-dev)
 - [Mailing list](https://groups.google.com/forum/#!forum/operator-framework-olm-dev)
-- [Open Community Issues/PRs](https://github.com/operator-framework/community/labels/wg%2Folm)
+- [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/wg%2Folm)
 <!-- BEGIN CUSTOM CONTENT -->
 
 <!-- END CUSTOM CONTENT -->
